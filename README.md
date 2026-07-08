@@ -8,8 +8,6 @@ Python SDK for Claude Agent. See the [Claude Agent SDK documentation](https://pl
 pip install claude-agent-sdk
 ```
 
-test
-
 **Prerequisites:**
 
 - Python 3.10+
